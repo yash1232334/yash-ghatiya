@@ -1,0 +1,101 @@
+#box{
+    background-color : blue;
+    color: white;
+}
+.box{
+    color: red;
+}
+#button{
+    background-color: red;
+}
+/*text align properties*/
+#lefttxt{
+    color: blue;
+    text-align: left;
+    text-decoration: underline; 
+}
+#righttxt{
+    color: red;
+    text-align: right;
+    text-decoration: overline; 
+}
+#centertxt{
+    color: green;
+    text-align: center;
+    text-decoration: line-through;
+}
+#one{
+    font-weight : 100;
+}
+#two{
+    font-weight : 500;
+}
+#three{
+    font-weight: normal;
+}
+#four{
+    font-weight : bold;
+}
+#five{
+    font-family : arial;
+}
+#six{
+     font-family:250 ;
+}
+
+#seven{
+     font-weight:750 ;
+}
+
+#stm{
+    font-family: 'Times New Roman', Times, serif;
+}
+#nine{
+    font-size: 25px;
+}
+#ten{
+    font-size: 30px;
+}
+.mydiv{
+    background-color: red;
+    height: 75px;
+    width: 50px;
+    border-style: dotted;
+    border-color: black;
+    border-width:3px;
+    margin: 2px;
+    padding: 1px 2px 3px 4px;
+
+}
+
+.mydiv{
+    background-color: red;
+    height: 75px;
+    width: 50px;
+    border-style: dotted;
+    border-color: black;
+    border-width:3px;
+    margin: 2px;
+    padding: 1px 2px 3px 4px;
+
+}
+
+.mydiv{
+    background-color: red;
+    height: 75px;
+    width: 50px;
+    border-style: dotted;
+    border-color: black;
+    border-width:3px;
+    margin: 2px;
+    padding: 1px 2px 3px 4px;
+
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#rose{
+    font-family: 'Times New Roman', Times, serif;
+}
